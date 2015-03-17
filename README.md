@@ -1,12 +1,11 @@
-saury
-=====
+# saury
 
-A light message tip tool.
+a light message tip tool.
 
 
-### APIs
+## APIs
 
-- `saury.show`
+### `saury.show`
 
 Show a saury message tips.
 
@@ -33,14 +32,14 @@ saury.show({
 ```
 
 
-- `saury.hide`
+### `saury.hide`
 
 Just hide a saury message tips.
 
 
-### Features
+## Features
 
 If you call `saury.show` when a saury tips is already appeared, the previous saury will hide fast itself and the next saury will fade in.
 
-- `index.js` this is a node module supported file.
-- `browser.js` this is a browser runtime supported file.
+- `index.js`, this is a node module supported file.
+- `browser.js`, this is a browser runtime supported file.
