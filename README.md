@@ -1,7 +1,7 @@
 saury
 =====
 
-A light weight message tip tool.
+A light message tip tool.
 
 
 ### APIs
